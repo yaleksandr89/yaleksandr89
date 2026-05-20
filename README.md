@@ -1,10 +1,3 @@
-<div align="center">
-
-[//]: # (  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaleksandr89" alt="GitHub Stats Card" width="33%" />)
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaleksandr89" alt="Top Languages by Repo" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yaleksandr89" alt="Top Languages by Commit" width="49%" />
-</div>
-
 # 👋 Привет, я Александр
 
 PHP Backend-разработчик с более чем 5 годами коммерческого опыта в разработке и сопровождении веб-приложений.
