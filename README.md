@@ -17,17 +17,62 @@
 
 ## Стек
 
-| Направление | Технологии |
-|---|---|
-| <img src="assets/icons/languages.svg" width="16" height="16" alt=""> <strong>Языки</strong> | PHP · SQL · JavaScript |
-| <img src="assets/icons/php.svg" width="16" height="16" alt=""> <strong>PHP</strong> | Native PHP · Symfony · Laravel · Yii |
-| <img src="assets/icons/databases.svg" width="16" height="16" alt=""> <strong>Базы данных</strong> | PostgreSQL · MySQL · MariaDB |
-| <img src="assets/icons/search.svg" width="16" height="16" alt=""> <strong>Кэш и поиск</strong> | Redis · Elasticsearch · Sphinx |
-| <img src="assets/icons/devops.svg" width="16" height="16" alt=""> <strong>Platform / DevOps</strong> | Linux · Docker · Kubernetes |
-| <img src="assets/icons/git.svg" width="16" height="16" alt=""> <strong>Git / Forge / CI</strong> | Git · GitHub · GitLab · Gitea · GitHub Actions |
-| <img src="assets/icons/development.svg" width="16" height="16" alt=""> <strong>Development</strong> | PhpStorm |
-| <img src="assets/icons/ai.svg" width="16" height="16" alt=""> <strong>AI</strong> | ChatGPT Projects · Codex · OpenCode · LM Studio |
-| <img src="assets/icons/local-llm.svg" width="16" height="16" alt=""> <strong>Local LLM</strong> | Qwen3.8 27B · Qwen2.5-Coder 14B · Qwen3.5 9B |
+<table>
+  <thead>
+    <tr>
+      <th width="32"></th>
+      <th align="left">Направление</th>
+      <th align="left">Технологии</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/languages.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>Языки</strong></td>
+      <td valign="middle">PHP · SQL · JavaScript</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/php.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>PHP</strong></td>
+      <td valign="middle">Native PHP · Symfony · Laravel · Yii</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/databases.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>Базы данных</strong></td>
+      <td valign="middle">PostgreSQL · MySQL · MariaDB</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/search.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>Кэш и поиск</strong></td>
+      <td valign="middle">Redis · Elasticsearch · Sphinx</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/devops.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>Platform / DevOps</strong></td>
+      <td valign="middle">Linux · Docker · Kubernetes</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/git.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>Git / Forge / CI</strong></td>
+      <td valign="middle">Git · GitHub · GitLab · Gitea · GitHub Actions</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/development.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>Development</strong></td>
+      <td valign="middle">PhpStorm</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/ai.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>AI</strong></td>
+      <td valign="middle">ChatGPT Projects · Codex · OpenCode · LM Studio</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><img src="assets/icons/local-llm.svg" width="18" height="18" alt=""></td>
+      <td valign="middle"><strong>Local LLM</strong></td>
+      <td valign="middle">Qwen3.8 27B · Qwen2.5-Coder 14B · Qwen3.5 9B</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
