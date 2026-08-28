@@ -1,45 +1,140 @@
-# Привет
+<!--
+  Review scaffold for the GitHub profile README.
+  Final images, mascots and monochrome icons are intentionally not included yet.
+-->
 
-PHP Backend-разработчик с более чем 5 годами коммерческого опыта в разработке и сопровождении веб-приложений.
+## Выберите язык
 
-Работаю с backend-логикой, API-интеграциями, legacy-проектами и внутренними корпоративными системами. Основной стек: PHP, Laravel, Symfony, SQL, Docker, Linux.
+| Русский | English | Español | 中文 | Français | Deutsch |
+|---|---|---|---|---|---|
+| **Выбран** | [English](langs/README_en.md) | [Español](langs/README_es.md) | [中文](langs/README_zh.md) | [Français](langs/README_fr.md) | [Deutsch](langs/README_de.md) |
 
-Сейчас открыт к предложениям по PHP / Backend-разработке. Наиболее интересны продуктовые B2B-проекты, внутренние корпоративные системы и команды с адекватными инженерными процессами.
+---
 
-## Навыки и технологии
+PHP Backend-разработчик с более чем 6 годами коммерческого опыта в разработке и сопровождении веб-приложений.
 
-### Языки
+Работаю с backend-логикой, API-интеграциями, legacy-проектами и внутренними корпоративными системами.
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+---
 
-### Фреймворки
+## Стек
 
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+| Направление | Технологии |
+|---|---|
+| **Языки** | PHP · SQL · JavaScript |
+| **PHP** | Native PHP · Symfony · Laravel · Yii |
+| **Базы данных** | PostgreSQL · MySQL · MariaDB |
+| **Кэш и поиск** | Redis · Elasticsearch · Sphinx |
+| **Platform / DevOps** | Linux · Docker · Kubernetes |
+| **Git / Forge / CI** | Git · GitHub · GitLab · Gitea · GitHub Actions |
+| **Development** | PhpStorm |
+| **AI** | ChatGPT Projects · Codex · OpenCode · LM Studio |
+| **Local LLM** | Qwen3.8 27B · Qwen2.5-Coder 14B · Qwen3.5 9B |
 
-### Базы данных и поиск
+---
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+## PHP
+
+<!-- TODO: PHP mascot illustration -->
+
+<p align="center"><strong>PHP MASCOT</strong></p>
+
+### Проекты
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/mvc-v1"><strong>mvc-v1</strong></a><br>
+      <sub>Native PHP</sub><br><br>
+      Учебное веб-приложение с собственным MVC-ядром, CRUD, PostgreSQL через PDO и воспроизводимым Docker-окружением.
+    </td>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/symfony-shop"><strong>symfony-shop</strong></a><br>
+      <sub>Symfony</sub><br><br>
+      Интернет-магазин на Symfony с PostgreSQL, Doctrine ORM, API Platform, OAuth и отдельным frontend на Vue.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/yii2-book-catalog"><strong>yii2-book-catalog</strong></a><br>
+      <sub>Yii2</sub><br><br>
+      Каталог книг и авторов на Yii2 и MySQL с Docker, тестами и внешней SMS-интеграцией.
+    </td>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <strong>Laravel / RoadRunner / Temporal</strong><br>
+      <sub>В процессе</sub><br><br>
+      Следующий учебный проект на Laravel в связке с RoadRunner и Temporal. Репозиторий появится после начала разработки.
+    </td>
+  </tr>
+</table>
+
+### PHP-пакеты
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/oauth2-yandex"><strong>oauth2-yandex</strong></a><br>
+      <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a></sub><br><br>
+      OAuth 2.0 provider для интеграции Yandex ID через <code>league/oauth2-client</code>.
+    </td>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/weather"><strong>weather</strong></a><br>
+      <sub><a href="https://github.com/yaleksandr89/weather">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/weather">Packagist</a></sub><br><br>
+      PHP-клиент для получения текущей погоды по координатам через Open-Meteo и WeatherAPI.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/archive-guard"><strong>archive-guard</strong></a><br>
+      <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · В разработке</sub><br><br>
+      Безопасная проверка и контролируемое извлечение недоверенных ZIP-архивов в PHP.
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ### Инструменты
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/docker-sql-lab"><strong>docker-sql-lab</strong></a><br>
+      <sub>Docker · SQL</sub><br><br>
+      Локальная SQL-лаборатория с MySQL, PostgreSQL и готовыми учебными базами для практики и экспериментов.
+    </td>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/docker-elasticsearch"><strong>docker-elasticsearch</strong></a><br>
+      <sub>Docker · Elasticsearch</sub><br><br>
+      Локальный Elasticsearch-стек с Kibana и Nginx, дополненный ICU и phonetic analysis plugins.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/remove-prefix"><strong>remove-prefix</strong></a><br>
+      <sub>Bash · PowerShell</sub><br><br>
+      Кроссплатформенные скрипты для рекурсивного массового удаления префиксов из имён файлов и каталогов.
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+---
 
 ## Контакты
 
-- Email: [Yandex](mailto:y.aleksandr89@yandex.ru) / [Google](mailto:y.aleksandr89@gmail.com)
-- Telegram: [@yaleksandr89](https://t.me/yaleksandr89)
-- LinkedIn: [linkedin.com/in/yaleksandr89](https://www.linkedin.com/in/yaleksandr89)
-- Vk: [vk.me/yaleksandr89](https://vk.me/id217155417)
+| | |
+|---|---|
+| **Email** | [Yandex](mailto:y.aleksandr89@yandex.ru) · [Gmail](mailto:y.aleksandr89@gmail.com) |
+| **LinkedIn** | [in/yaleksandr89](https://www.linkedin.com/in/yaleksandr89) |
+| **VK** | [vk.me/y.aleksandr89](https://vk.me/y.aleksandr89) |
+| **Telegram** | [@yaleksandr89](https://t.me/yaleksandr89) |
