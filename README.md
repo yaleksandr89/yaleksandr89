@@ -11,9 +11,7 @@
 
 ---
 
-PHP Backend-разработчик с более чем 6 годами коммерческого опыта в разработке и сопровождении веб-приложений.
-
-Работаю с backend-логикой, API-интеграциями, legacy-проектами и внутренними корпоративными системами.
+Работаю с backend-логикой, API-интеграциями, legacy-проектами и внутренними корпоративными системами. Здесь собираю проекты, PHP-пакеты и небольшие инструменты для экспериментов, практики и повседневных задач.
 
 ---
 
@@ -21,15 +19,15 @@ PHP Backend-разработчик с более чем 6 годами комм�
 
 | Направление | Технологии |
 |---|---|
-| **Языки** | PHP · SQL · JavaScript |
-| **PHP** | Native PHP · Symfony · Laravel · Yii |
-| **Базы данных** | PostgreSQL · MySQL · MariaDB |
-| **Кэш и поиск** | Redis · Elasticsearch · Sphinx |
-| **Platform / DevOps** | Linux · Docker · Kubernetes |
-| **Git / Forge / CI** | Git · GitHub · GitLab · Gitea · GitHub Actions |
-| **Development** | PhpStorm |
-| **AI** | ChatGPT Projects · Codex · OpenCode · LM Studio |
-| **Local LLM** | Qwen3.8 27B · Qwen2.5-Coder 14B · Qwen3.5 9B |
+| <img src="assets/icons/languages.svg" width="16" height="16" alt=""> <strong>Языки</strong> | PHP · SQL · JavaScript |
+| <img src="assets/icons/php.svg" width="16" height="16" alt=""> <strong>PHP</strong> | Native PHP · Symfony · Laravel · Yii |
+| <img src="assets/icons/databases.svg" width="16" height="16" alt=""> <strong>Базы данных</strong> | PostgreSQL · MySQL · MariaDB |
+| <img src="assets/icons/search.svg" width="16" height="16" alt=""> <strong>Кэш и поиск</strong> | Redis · Elasticsearch · Sphinx |
+| <img src="assets/icons/devops.svg" width="16" height="16" alt=""> <strong>Platform / DevOps</strong> | Linux · Docker · Kubernetes |
+| <img src="assets/icons/git.svg" width="16" height="16" alt=""> <strong>Git / Forge / CI</strong> | Git · GitHub · GitLab · Gitea · GitHub Actions |
+| <img src="assets/icons/development.svg" width="16" height="16" alt=""> <strong>Development</strong> | PhpStorm |
+| <img src="assets/icons/ai.svg" width="16" height="16" alt=""> <strong>AI</strong> | ChatGPT Projects · Codex · OpenCode · LM Studio |
+| <img src="assets/icons/local-llm.svg" width="16" height="16" alt=""> <strong>Local LLM</strong> | Qwen3.8 27B · Qwen2.5-Coder 14B · Qwen3.5 9B |
 
 ---
 
@@ -67,7 +65,7 @@ PHP Backend-разработчик с более чем 6 годами комм�
       <strong>IMG</strong><br><br>
       <a href="#"><strong>В процессе...</strong></a><br>
       <sub>Laravel</sub><br><br>
-      Проект на Laravel с RoadRunner и Temporal: workflow, фоновые задачи и долгоживущие бизнес-процессы на примере агрегатора доставки.
+      Проект на Laravel с RoadRunner и Temporal на примере агрегатора доставки.
     </td>
   </tr>
 </table>
