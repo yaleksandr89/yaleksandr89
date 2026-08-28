@@ -47,7 +47,7 @@ PHP Backend-разработчик с более чем 6 годами комм�
       <strong>IMG</strong><br><br>
       <a href="https://github.com/yaleksandr89/mvc-v1"><strong>mvc-v1</strong></a><br>
       <sub>Native PHP</sub><br><br>
-      Учебное веб-приложение с собственным MVC-ядром, CRUD, PostgreSQL через PDO и воспроизводимым Docker-окружением.
+      Пример реализации архитектурного шаблона MVC на нативном PHP с CRUD, PostgreSQL через PDO и Docker-окружением.
     </td>
     <td align="center" width="50%">
       <strong>IMG</strong><br><br>
@@ -65,9 +65,9 @@ PHP Backend-разработчик с более чем 6 годами комм�
     </td>
     <td align="center" width="50%">
       <strong>IMG</strong><br><br>
-      <strong>Laravel / RoadRunner / Temporal</strong><br>
-      <sub>В процессе</sub><br><br>
-      Следующий учебный проект на Laravel в связке с RoadRunner и Temporal. Репозиторий появится после начала разработки.
+      <a href="#"><strong>В процессе...</strong></a><br>
+      <sub>Laravel</sub><br><br>
+      Проект на Laravel с RoadRunner и Temporal: workflow, фоновые задачи и долгоживущие бизнес-процессы на примере агрегатора доставки.
     </td>
   </tr>
 </table>
@@ -78,13 +78,11 @@ PHP Backend-разработчик с более чем 6 годами комм�
   <tr>
     <td align="center" width="50%">
       <strong>IMG</strong><br><br>
-      <a href="https://github.com/yaleksandr89/oauth2-yandex"><strong>oauth2-yandex</strong></a><br>
       <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a></sub><br><br>
       OAuth 2.0 provider для интеграции Yandex ID через <code>league/oauth2-client</code>.
     </td>
     <td align="center" width="50%">
       <strong>IMG</strong><br><br>
-      <a href="https://github.com/yaleksandr89/weather"><strong>weather</strong></a><br>
       <sub><a href="https://github.com/yaleksandr89/weather">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/weather">Packagist</a></sub><br><br>
       PHP-клиент для получения текущей погоды по координатам через Open-Meteo и WeatherAPI.
     </td>
@@ -92,7 +90,6 @@ PHP Backend-разработчик с более чем 6 годами комм�
   <tr>
     <td align="center" width="50%">
       <strong>IMG</strong><br><br>
-      <a href="https://github.com/yaleksandr89/archive-guard"><strong>archive-guard</strong></a><br>
       <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · В разработке</sub><br><br>
       Безопасная проверка и контролируемое извлечение недоверенных ZIP-архивов в PHP.
     </td>
@@ -108,13 +105,13 @@ PHP Backend-разработчик с более чем 6 годами комм�
       <strong>IMG</strong><br><br>
       <a href="https://github.com/yaleksandr89/docker-sql-lab"><strong>docker-sql-lab</strong></a><br>
       <sub>Docker · SQL</sub><br><br>
-      Локальная SQL-лаборатория с MySQL, PostgreSQL и готовыми учебными базами для практики и экспериментов.
+      Локальный стенд для изучения SQL с PostgreSQL, MySQL и ClickHouse, а также готовыми demo-таблицами.
     </td>
     <td align="center" width="50%">
       <strong>IMG</strong><br><br>
       <a href="https://github.com/yaleksandr89/docker-elasticsearch"><strong>docker-elasticsearch</strong></a><br>
       <sub>Docker · Elasticsearch</sub><br><br>
-      Локальный Elasticsearch-стек с Kibana и Nginx, дополненный ICU и phonetic analysis plugins.
+      Локальный стенд для изучения Elasticsearch с Kibana и Nginx, включая ICU и phonetic-анализ для экспериментов с поиском.
     </td>
   </tr>
   <tr>
@@ -132,9 +129,24 @@ PHP Backend-разработчик с более чем 6 годами комм�
 
 ## Контакты
 
-| | |
-|---|---|
-| **Email** | [Yandex](mailto:y.aleksandr89@yandex.ru) · [Gmail](mailto:y.aleksandr89@gmail.com) |
-| **LinkedIn** | [in/yaleksandr89](https://www.linkedin.com/in/yaleksandr89) |
-| **VK** | [vk.me/y.aleksandr89](https://vk.me/y.aleksandr89) |
-| **Telegram** | [@yaleksandr89](https://t.me/yaleksandr89) |
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td>
+      <a href="mailto:y.aleksandr89@yandex.ru">y.aleksandr89@yandex.ru</a> ·
+      <a href="mailto:y.aleksandr89@gmail.com">y.aleksandr89@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/yaleksandr89">in/yaleksandr89</a></td>
+  </tr>
+  <tr>
+    <td><strong>VK</strong></td>
+    <td><a href="https://vk.me/y.aleksandr89">vk.me/y.aleksandr89</a></td>
+  </tr>
+  <tr>
+    <td><strong>Telegram</strong></td>
+    <td><a href="https://t.me/yaleksandr89">@yaleksandr89</a></td>
+  </tr>
+</table>
