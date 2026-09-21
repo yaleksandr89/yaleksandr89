@@ -97,12 +97,15 @@
       <sub>Yii2</sub><br><br>
       Каталог книг и авторов на Yii2 и MySQL с Docker, тестами и внешней SMS-интеграцией.
     </td>
+    <!--
     <td align="center" valign="top" width="50%">
       <img src="assets/images/projects/laravel-temporal.png" width="100%" alt="Laravel, RoadRunner and Temporal delivery aggregator — in progress"><br><br>
       <strong>В процессе...</strong><br>
       <sub>Laravel</sub><br><br>
       Проект на Laravel с RoadRunner и Temporal на примере агрегатора доставки.
     </td>
+    -->
+    <td valign="top" width="50%"></td>
   </tr>
 </table>
 
@@ -125,6 +128,7 @@
       PHP-клиент для получения текущей погоды по координатам через Open-Meteo и WeatherAPI.
     </td>
   </tr>
+  <!--
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/archive-guard">
@@ -135,6 +139,7 @@
     </td>
     <td valign="top" width="50%"></td>
   </tr>
+  -->
 </table>
 
 ### Инструменты
