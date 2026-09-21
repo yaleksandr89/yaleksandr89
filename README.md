@@ -68,9 +68,9 @@
 
 ## PHP
 
-<!-- TODO: PHP mascot illustration -->
-
-<p align="center"><strong>PHP MASCOT</strong></p>
+<p align="center">
+  <img src="assets/images/php-mascot.png" alt="PHP mascot — синий слоник за ноутбуком">
+</p>
 
 ### Проекты
 
