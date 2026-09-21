@@ -71,7 +71,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/mvc-v1">
         <img src="assets/images/projects/mvc-v1.png" width="100%" alt="mvc-v1 — educational PHP blog with custom MVC core">
       </a><br><br>
@@ -79,7 +79,7 @@
       <sub>Native PHP</sub><br><br>
       Пример реализации архитектурного шаблона MVC на нативном PHP с CRUD, PostgreSQL через PDO и Docker-окружением.
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/symfony-shop">
         <img src="assets/images/projects/symfony-shop.png" width="100%" alt="symfony-shop — educational e-commerce project on Symfony">
       </a><br><br>
@@ -89,7 +89,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/yii2-book-catalog">
         <img src="assets/images/projects/yii2-book-catalog.png" width="100%" alt="yii2-book-catalog — web book catalog on Yii2">
       </a><br><br>
@@ -97,7 +97,7 @@
       <sub>Yii2</sub><br><br>
       Каталог книг и авторов на Yii2 и MySQL с Docker, тестами и внешней SMS-интеграцией.
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <img src="assets/images/projects/laravel-temporal.png" width="100%" alt="Laravel, RoadRunner and Temporal delivery aggregator — in progress"><br><br>
       <strong>В процессе...</strong><br>
       <sub>Laravel</sub><br><br>
@@ -110,14 +110,14 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/oauth2-yandex">
         <img src="assets/images/packages/oauth2-yandex.png" width="100%" alt="oauth2-yandex — Yandex ID OAuth 2.0 provider for PHP">
       </a><br><br>
       <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a></sub><br><br>
       OAuth 2.0 provider для интеграции Yandex ID через <code>league/oauth2-client</code>.
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/weather">
         <img src="assets/images/packages/weather.png" width="100%" alt="weather — unified current weather client for PHP">
       </a><br><br>
@@ -126,14 +126,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/archive-guard">
         <img src="assets/images/packages/archive-guard.png" width="100%" alt="archive-guard — safe ZIP archive inspection for PHP">
       </a><br><br>
       <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · В разработке</sub><br><br>
       Безопасная проверка и контролируемое извлечение недоверенных ZIP-архивов в PHP.
     </td>
-    <td width="50%"></td>
+    <td valign="top" width="50%"></td>
   </tr>
 </table>
 
@@ -141,7 +141,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-sql-lab">
         <img src="assets/images/tools/docker-sql-lab.png" width="100%" alt="docker-sql-lab — local SQL training environment">
       </a><br><br>
@@ -149,7 +149,7 @@
       <sub>Docker · SQL</sub><br><br>
       Локальный стенд для изучения SQL с PostgreSQL, MySQL и ClickHouse, а также готовыми demo-таблицами.
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-elasticsearch">
         <img src="assets/images/tools/docker-elasticsearch.png" width="100%" alt="docker-elasticsearch — local Elasticsearch training environment">
       </a><br><br>
@@ -159,7 +159,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/remove-prefix">
         <img src="assets/images/tools/remove-prefix.png" width="100%" alt="remove-prefix — batch prefix removal for files and folders">
       </a><br><br>
@@ -167,7 +167,7 @@
       <sub>Bash · PowerShell</sub><br><br>
       Кроссплатформенные скрипты для рекурсивного массового удаления префиксов из имён файлов и каталогов.
     </td>
-    <td width="50%"></td>
+    <td valign="top" width="50%"></td>
   </tr>
 </table>
 
