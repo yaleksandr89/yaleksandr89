@@ -1,8 +1,3 @@
-<!--
-  Review scaffold for the GitHub profile README.
-  Final images, mascots and monochrome icons are intentionally not included yet.
--->
-
 ## Выберите язык
 
 | Русский | English | Español | 中文 | Français | Deutsch |
@@ -77,7 +72,9 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/mvc-v1">
+        <img src="assets/images/projects/mvc-v1.png" width="100%" alt="mvc-v1 — educational PHP blog with custom MVC core">
+      </a><br><br>
       <a href="https://github.com/yaleksandr89/mvc-v1"><strong>mvc-v1</strong></a><br>
       <sub>Native PHP</sub><br><br>
       Пример реализации архитектурного шаблона MVC на нативном PHP с CRUD, PostgreSQL через PDO и Docker-окружением.
