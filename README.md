@@ -2,7 +2,7 @@
 
 | Русский | English | Español | 中文 | Français | Deutsch |
 |---|---|---|---|---|---|
-| **Выбран** | [English](langs/README_en.md) | [Español](langs/README_es.md) | [中文](langs/README_zh.md) | [Français](langs/README_fr.md) | [Deutsch](langs/README_de.md) |
+| **Выбран** | [English](https://github.com/yaleksandr89/yaleksandr89/blob/master/langs/README_en.md) | [Español](https://github.com/yaleksandr89/yaleksandr89/blob/master/langs/README_es.md) | [中文](https://github.com/yaleksandr89/yaleksandr89/blob/master/langs/README_zh.md) | [Français](https://github.com/yaleksandr89/yaleksandr89/blob/master/langs/README_fr.md) | [Deutsch](https://github.com/yaleksandr89/yaleksandr89/blob/master/langs/README_de.md) |
 
 ---
 
