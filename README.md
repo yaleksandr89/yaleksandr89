@@ -26,39 +26,39 @@
   </thead>
   <tbody>
     <tr>
-      <td valign="middle"><img src="assets/icons/languages.svg" width="28" height="28" alt=""> <strong>Языки</strong></td>
+      <td valign="middle"><img src="assets/icons/languages.svg" width="28" height="28" alt="" align="middle"> <strong>Языки</strong></td>
       <td valign="middle">PHP · SQL · JavaScript</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/php.svg" width="28" height="28" alt=""> <strong>PHP</strong></td>
+      <td valign="middle"><img src="assets/icons/php.svg" width="28" height="28" alt="" align="middle"> <strong>PHP</strong></td>
       <td valign="middle">Native PHP · Symfony · Laravel · Yii</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/databases.svg" width="28" height="28" alt=""> <strong>Базы данных</strong></td>
+      <td valign="middle"><img src="assets/icons/databases.svg" width="28" height="28" alt="" align="middle"> <strong>Базы данных</strong></td>
       <td valign="middle">PostgreSQL · MySQL · MariaDB</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/search.svg" width="28" height="28" alt=""> <strong>Кэш и поиск</strong></td>
+      <td valign="middle"><img src="assets/icons/search.svg" width="28" height="28" alt="" align="middle"> <strong>Кэш и поиск</strong></td>
       <td valign="middle">Redis · Elasticsearch · Sphinx</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/devops.svg" width="28" height="28" alt=""> <strong>Platform / DevOps</strong></td>
+      <td valign="middle"><img src="assets/icons/devops.svg" width="28" height="28" alt="" align="middle"> <strong>Platform / DevOps</strong></td>
       <td valign="middle">Linux · Docker · Kubernetes</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/git.svg" width="28" height="28" alt=""> <strong>Git / Forge / CI</strong></td>
+      <td valign="middle"><img src="assets/icons/git.svg" width="28" height="28" alt="" align="middle"> <strong>Git / Forge / CI</strong></td>
       <td valign="middle">Git · GitHub · GitLab · Gitea · GitHub Actions</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/development.svg" width="28" height="28" alt=""> <strong>Development</strong></td>
+      <td valign="middle"><img src="assets/icons/development.svg" width="28" height="28" alt="" align="middle"> <strong>Development</strong></td>
       <td valign="middle">PhpStorm</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/ai.svg" width="28" height="28" alt=""> <strong>AI</strong></td>
+      <td valign="middle"><img src="assets/icons/ai.svg" width="28" height="28" alt="" align="middle"> <strong>AI</strong></td>
       <td valign="middle">ChatGPT Projects · Codex · OpenCode · LM Studio</td>
     </tr>
     <tr>
-      <td valign="middle"><img src="assets/icons/local-llm.svg" width="28" height="28" alt=""> <strong>Local LLM</strong></td>
+      <td valign="middle"><img src="assets/icons/local-llm.svg" width="28" height="28" alt="" align="middle"> <strong>Local LLM</strong></td>
       <td valign="middle">Qwen3.8 27B · Qwen2.5-Coder 14B · Qwen3.5 9B</td>
     </tr>
   </tbody>
