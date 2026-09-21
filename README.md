@@ -80,7 +80,9 @@
       Пример реализации архитектурного шаблона MVC на нативном PHP с CRUD, PostgreSQL через PDO и Docker-окружением.
     </td>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/symfony-shop">
+        <img src="assets/images/projects/symfony-shop.png" width="100%" alt="symfony-shop — educational e-commerce project on Symfony">
+      </a><br><br>
       <a href="https://github.com/yaleksandr89/symfony-shop"><strong>symfony-shop</strong></a><br>
       <sub>Symfony</sub><br><br>
       Интернет-магазин на Symfony с PostgreSQL, Doctrine ORM, API Platform, OAuth и отдельным frontend на Vue.
@@ -88,14 +90,16 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/yii2-book-catalog">
+        <img src="assets/images/projects/yii2-book-catalog.png" width="100%" alt="yii2-book-catalog — web book catalog on Yii2">
+      </a><br><br>
       <a href="https://github.com/yaleksandr89/yii2-book-catalog"><strong>yii2-book-catalog</strong></a><br>
       <sub>Yii2</sub><br><br>
       Каталог книг и авторов на Yii2 и MySQL с Docker, тестами и внешней SMS-интеграцией.
     </td>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
-      <a href="#"><strong>В процессе...</strong></a><br>
+      <img src="assets/images/projects/laravel-temporal.png" width="100%" alt="Laravel, RoadRunner and Temporal delivery aggregator — in progress"><br><br>
+      <strong>В процессе...</strong><br>
       <sub>Laravel</sub><br><br>
       Проект на Laravel с RoadRunner и Temporal на примере агрегатора доставки.
     </td>
@@ -107,19 +111,25 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/oauth2-yandex">
+        <img src="assets/images/packages/oauth2-yandex.png" width="100%" alt="oauth2-yandex — Yandex ID OAuth 2.0 provider for PHP">
+      </a><br><br>
       <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a></sub><br><br>
       OAuth 2.0 provider для интеграции Yandex ID через <code>league/oauth2-client</code>.
     </td>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/weather">
+        <img src="assets/images/packages/weather.png" width="100%" alt="weather — unified current weather client for PHP">
+      </a><br><br>
       <sub><a href="https://github.com/yaleksandr89/weather">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/weather">Packagist</a></sub><br><br>
       PHP-клиент для получения текущей погоды по координатам через Open-Meteo и WeatherAPI.
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/archive-guard">
+        <img src="assets/images/packages/archive-guard.png" width="100%" alt="archive-guard — safe ZIP archive inspection for PHP">
+      </a><br><br>
       <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · В разработке</sub><br><br>
       Безопасная проверка и контролируемое извлечение недоверенных ZIP-архивов в PHP.
     </td>
@@ -132,13 +142,17 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/docker-sql-lab">
+        <img src="assets/images/tools/docker-sql-lab.png" width="100%" alt="docker-sql-lab — local SQL training environment">
+      </a><br><br>
       <a href="https://github.com/yaleksandr89/docker-sql-lab"><strong>docker-sql-lab</strong></a><br>
       <sub>Docker · SQL</sub><br><br>
       Локальный стенд для изучения SQL с PostgreSQL, MySQL и ClickHouse, а также готовыми demo-таблицами.
     </td>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/docker-elasticsearch">
+        <img src="assets/images/tools/docker-elasticsearch.png" width="100%" alt="docker-elasticsearch — local Elasticsearch training environment">
+      </a><br><br>
       <a href="https://github.com/yaleksandr89/docker-elasticsearch"><strong>docker-elasticsearch</strong></a><br>
       <sub>Docker · Elasticsearch</sub><br><br>
       Локальный стенд для изучения Elasticsearch с Kibana и Nginx, включая ICU и phonetic-анализ для экспериментов с поиском.
@@ -146,7 +160,9 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <strong>IMG</strong><br><br>
+      <a href="https://github.com/yaleksandr89/remove-prefix">
+        <img src="assets/images/tools/remove-prefix.png" width="100%" alt="remove-prefix — batch prefix removal for files and folders">
+      </a><br><br>
       <a href="https://github.com/yaleksandr89/remove-prefix"><strong>remove-prefix</strong></a><br>
       <sub>Bash · PowerShell</sub><br><br>
       Кроссплатформенные скрипты для рекурсивного массового удаления префиксов из имён файлов и каталогов.
