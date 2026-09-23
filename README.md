@@ -133,7 +133,7 @@
         <a href="https://github.com/yaleksandr89/archive-guard">
           <img src="assets/images/packages/archive-guard.png" width="100%" alt="archive-guard — ZIP, TAR and TAR.GZ inspection and controlled extraction for PHP">
         </a><br><br>
-        <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · В разработке</sub><br><br>
+        <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/archive-guard">Packagist</a></sub><br><br>
         Проверка ZIP, TAR и TAR.GZ перед распаковкой и извлечение с заданными ограничениями для PHP.
       </td>
       <td valign="top" width="50%"></td>
