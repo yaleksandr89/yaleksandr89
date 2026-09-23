@@ -128,18 +128,16 @@
       PHP-клиент для получения текущей погоды по координатам через Open-Meteo и WeatherAPI.
     </td>
   </tr>
-  <!--
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://github.com/yaleksandr89/archive-guard">
-        <img src="assets/images/packages/archive-guard.png" width="100%" alt="archive-guard — safe ZIP archive inspection for PHP">
-      </a><br><br>
-      <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · В разработке</sub><br><br>
-      Безопасная проверка и контролируемое извлечение недоверенных ZIP-архивов в PHP.
-    </td>
-    <td valign="top" width="50%"></td>
-  </tr>
-  -->
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/yaleksandr89/archive-guard">
+          <img src="assets/images/packages/archive-guard.png" width="100%" alt="archive-guard — ZIP, TAR and TAR.GZ inspection and controlled extraction for PHP">
+        </a><br><br>
+        <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · В разработке</sub><br><br>
+        Проверка ZIP, TAR и TAR.GZ перед распаковкой и извлечение с заданными ограничениями для PHP.
+      </td>
+      <td valign="top" width="50%"></td>
+    </tr>
 </table>
 
 ### Инструменты
