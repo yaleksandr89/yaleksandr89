@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/devops.svg" width="28" height="34" alt="" align="middle"> <strong>平台 / DevOps</strong></td>
-      <td valign="middle">Linux · Docker · Kubernetes</td>
+      <td valign="middle">Linux · Docker</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/git.svg" width="28" height="34" alt="" align="middle"> <strong>Git / Forge / CI</strong></td>
@@ -70,7 +70,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/mvc-v1">
-        <img src="../assets/images/projects/mvc-v1.png" width="80%" alt="mvc-v1 — 使用自定义 MVC 核心的 PHP 教学博客">
+        <img src="../assets/images/projects/mvc-v1.png" width="90%" alt="mvc-v1 — 使用自定义 MVC 核心的 PHP 教学博客">
       </a><br>
       <a href="https://github.com/yaleksandr89/mvc-v1"><strong>mvc-v1</strong></a><br>
       <sub>Native PHP</sub><br>
@@ -79,7 +79,7 @@
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/symfony-shop">
-        <img src="../assets/images/projects/symfony-shop.png" width="80%" alt="symfony-shop — 基于 Symfony 的教学电商项目">
+        <img src="../assets/images/projects/symfony-shop.png" width="90%" alt="symfony-shop — 基于 Symfony 的教学电商项目">
       </a><br>
       <a href="https://github.com/yaleksandr89/symfony-shop"><strong>symfony-shop</strong></a><br>
       <sub>Symfony</sub><br>
@@ -90,7 +90,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/yii2-book-catalog">
-        <img src="../assets/images/projects/yii2-book-catalog.png" width="80%" alt="yii2-book-catalog — 基于 Yii2 的图书 Web 目录">
+        <img src="../assets/images/projects/yii2-book-catalog.png" width="90%" alt="yii2-book-catalog — 基于 Yii2 的图书 Web 目录">
       </a><br>
       <a href="https://github.com/yaleksandr89/yii2-book-catalog"><strong>yii2-book-catalog</strong></a><br>
       <sub>Yii2</sub><br>
@@ -99,7 +99,7 @@
     </td>
     <!--
     <td align="center" valign="top" width="50%">
-      <img src="../assets/images/projects/laravel-temporal.png" width="80%" alt="Laravel、RoadRunner 和 Temporal 配送聚合器 — 开发中"><br>
+      <img src="../assets/images/projects/laravel-temporal.png" width="90%" alt="Laravel、RoadRunner 和 Temporal 配送聚合器 — 开发中"><br>
       <strong>开发中...</strong><br>
       <sub>Laravel</sub><br>
       使用 Laravel、RoadRunner 和 Temporal 实现的项目，以配送聚合器作为示例。
@@ -114,7 +114,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/oauth2-yandex">
-        <img src="../assets/images/packages/oauth2-yandex.png" width="80%" alt="oauth2-yandex — 用于 PHP 的 Yandex ID OAuth 2.0 Provider">
+        <img src="../assets/images/packages/oauth2-yandex.png" width="90%" alt="oauth2-yandex — 用于 PHP 的 Yandex ID OAuth 2.0 Provider">
       </a><br>
       <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a></sub><br>
       <sub>★ 1 · Forks 0</sub><br>
@@ -122,7 +122,7 @@
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/weather">
-        <img src="../assets/images/packages/weather.png" width="80%" alt="weather — PHP 统一当前天气客户端">
+        <img src="../assets/images/packages/weather.png" width="90%" alt="weather — PHP 统一当前天气客户端">
       </a><br>
       <sub><a href="https://github.com/yaleksandr89/weather">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/weather">Packagist</a></sub><br>
       <sub>★ 0 · Forks 0</sub><br>
@@ -132,7 +132,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/archive-guard">
-        <img src="../assets/images/packages/archive-guard.png" width="80%" alt="archive-guard — PHP 中 ZIP、TAR 和 TAR.GZ 的检查与受控解压">
+        <img src="../assets/images/packages/archive-guard.png" width="90%" alt="archive-guard — PHP 中 ZIP、TAR 和 TAR.GZ 的检查与受控解压">
       </a><br>
       <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/archive-guard">Packagist</a></sub><br>
       <sub>★ 0 · Forks 0</sub><br>
@@ -147,7 +147,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-sql-lab">
-        <img src="../assets/images/tools/docker-sql-lab.png" width="80%" alt="docker-sql-lab — 本地 SQL 学习环境">
+        <img src="../assets/images/tools/docker-sql-lab.png" width="90%" alt="docker-sql-lab — 本地 SQL 学习环境">
       </a><br>
       <a href="https://github.com/yaleksandr89/docker-sql-lab"><strong>docker-sql-lab</strong></a><br>
       <sub>Docker · SQL</sub><br>
@@ -156,7 +156,7 @@
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-elasticsearch">
-        <img src="../assets/images/tools/docker-elasticsearch.png" width="80%" alt="docker-elasticsearch — 本地 Elasticsearch 学习环境">
+        <img src="../assets/images/tools/docker-elasticsearch.png" width="90%" alt="docker-elasticsearch — 本地 Elasticsearch 学习环境">
       </a><br>
       <a href="https://github.com/yaleksandr89/docker-elasticsearch"><strong>docker-elasticsearch</strong></a><br>
       <sub>Docker · Elasticsearch</sub><br>
@@ -167,7 +167,7 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/remove-prefix">
-        <img src="../assets/images/tools/remove-prefix.png" width="80%" alt="remove-prefix — 批量删除文件和目录名称前缀">
+        <img src="../assets/images/tools/remove-prefix.png" width="90%" alt="remove-prefix — 批量删除文件和目录名称前缀">
       </a><br>
       <a href="https://github.com/yaleksandr89/remove-prefix"><strong>remove-prefix</strong></a><br>
       <sub>Bash · PowerShell</sub><br>

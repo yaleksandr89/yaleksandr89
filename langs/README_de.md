@@ -38,7 +38,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/devops.svg" width="28" height="34" alt="" align="middle"> <strong>Plattform / DevOps</strong></td>
-      <td valign="middle">Linux · Docker · Kubernetes</td>
+      <td valign="middle">Linux · Docker</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/git.svg" width="28" height="34" alt="" align="middle"> <strong>Git / Forge / CI</strong></td>
@@ -70,7 +70,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/mvc-v1">
-        <img src="../assets/images/projects/mvc-v1.png" width="80%" alt="mvc-v1 — PHP-Lernblog mit eigenem MVC-Kern">
+        <img src="../assets/images/projects/mvc-v1.png" width="90%" alt="mvc-v1 — PHP-Lernblog mit eigenem MVC-Kern">
       </a><br>
       <a href="https://github.com/yaleksandr89/mvc-v1"><strong>mvc-v1</strong></a><br>
       <sub>Native PHP</sub><br>
@@ -79,7 +79,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/symfony-shop">
-        <img src="../assets/images/projects/symfony-shop.png" width="80%" alt="symfony-shop — E-Commerce-Lernprojekt mit Symfony">
+        <img src="../assets/images/projects/symfony-shop.png" width="90%" alt="symfony-shop — E-Commerce-Lernprojekt mit Symfony">
       </a><br>
       <a href="https://github.com/yaleksandr89/symfony-shop"><strong>symfony-shop</strong></a><br>
       <sub>Symfony</sub><br>
@@ -90,7 +90,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/yii2-book-catalog">
-        <img src="../assets/images/projects/yii2-book-catalog.png" width="80%" alt="yii2-book-catalog — Web-Buchkatalog mit Yii2">
+        <img src="../assets/images/projects/yii2-book-catalog.png" width="90%" alt="yii2-book-catalog — Web-Buchkatalog mit Yii2">
       </a><br>
       <a href="https://github.com/yaleksandr89/yii2-book-catalog"><strong>yii2-book-catalog</strong></a><br>
       <sub>Yii2</sub><br>
@@ -99,7 +99,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
     </td>
     <!--
     <td align="center" valign="top" width="50%">
-      <img src="../assets/images/projects/laravel-temporal.png" width="80%" alt="Lieferaggregator mit Laravel, RoadRunner und Temporal — in Arbeit"><br>
+      <img src="../assets/images/projects/laravel-temporal.png" width="90%" alt="Lieferaggregator mit Laravel, RoadRunner und Temporal — in Arbeit"><br>
       <strong>In Arbeit...</strong><br>
       <sub>Laravel</sub><br>
       Laravel-Projekt mit RoadRunner und Temporal am Beispiel eines Lieferaggregators.
@@ -114,7 +114,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/oauth2-yandex">
-        <img src="../assets/images/packages/oauth2-yandex.png" width="80%" alt="oauth2-yandex — Yandex-ID-OAuth-2.0-Provider für PHP">
+        <img src="../assets/images/packages/oauth2-yandex.png" width="90%" alt="oauth2-yandex — Yandex-ID-OAuth-2.0-Provider für PHP">
       </a><br>
       <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a></sub><br>
       <sub>★ 1 · Forks 0</sub><br>
@@ -122,7 +122,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/weather">
-        <img src="../assets/images/packages/weather.png" width="80%" alt="weather — einheitlicher PHP-Client für aktuelles Wetter">
+        <img src="../assets/images/packages/weather.png" width="90%" alt="weather — einheitlicher PHP-Client für aktuelles Wetter">
       </a><br>
       <sub><a href="https://github.com/yaleksandr89/weather">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/weather">Packagist</a></sub><br>
       <sub>★ 0 · Forks 0</sub><br>
@@ -132,7 +132,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/archive-guard">
-        <img src="../assets/images/packages/archive-guard.png" width="80%" alt="archive-guard — Prüfung von ZIP, TAR und TAR.GZ und kontrolliertes Entpacken für PHP">
+        <img src="../assets/images/packages/archive-guard.png" width="90%" alt="archive-guard — Prüfung von ZIP, TAR und TAR.GZ und kontrolliertes Entpacken für PHP">
       </a><br>
       <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/archive-guard">Packagist</a></sub><br>
       <sub>★ 0 · Forks 0</sub><br>
@@ -147,7 +147,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-sql-lab">
-        <img src="../assets/images/tools/docker-sql-lab.png" width="80%" alt="docker-sql-lab — lokale SQL-Lernumgebung">
+        <img src="../assets/images/tools/docker-sql-lab.png" width="90%" alt="docker-sql-lab — lokale SQL-Lernumgebung">
       </a><br>
       <a href="https://github.com/yaleksandr89/docker-sql-lab"><strong>docker-sql-lab</strong></a><br>
       <sub>Docker · SQL</sub><br>
@@ -156,7 +156,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-elasticsearch">
-        <img src="../assets/images/tools/docker-elasticsearch.png" width="80%" alt="docker-elasticsearch — lokale Elasticsearch-Lernumgebung">
+        <img src="../assets/images/tools/docker-elasticsearch.png" width="90%" alt="docker-elasticsearch — lokale Elasticsearch-Lernumgebung">
       </a><br>
       <a href="https://github.com/yaleksandr89/docker-elasticsearch"><strong>docker-elasticsearch</strong></a><br>
       <sub>Docker · Elasticsearch</sub><br>
@@ -167,7 +167,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/remove-prefix">
-        <img src="../assets/images/tools/remove-prefix.png" width="80%" alt="remove-prefix — Präfixe stapelweise aus Datei- und Ordnernamen entfernen">
+        <img src="../assets/images/tools/remove-prefix.png" width="90%" alt="remove-prefix — Präfixe stapelweise aus Datei- und Ordnernamen entfernen">
       </a><br>
       <a href="https://github.com/yaleksandr89/remove-prefix"><strong>remove-prefix</strong></a><br>
       <sub>Bash · PowerShell</sub><br>
