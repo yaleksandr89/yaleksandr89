@@ -70,39 +70,41 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/mvc-v1">
-        <img src="assets/images/projects/mvc-v1.png" width="90%" alt="mvc-v1 — educational PHP blog with custom MVC core">
+        <img src="assets/images/projects/mvc-v1.png" width="80%" alt="mvc-v1 — educational PHP blog with custom MVC core">
       </a><br>
       <a href="https://github.com/yaleksandr89/mvc-v1"><strong>mvc-v1</strong></a><br>
-      <sub>Native PHP · ★ 2 · Forks 0</sub><br>
+      <sub>Native PHP</sub><br>
+      <sub>★ 2 · Forks 0</sub><br>
       Пример реализации архитектурного шаблона MVC на нативном PHP с CRUD, PostgreSQL через PDO и Docker-окружением.
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/symfony-shop">
-        <img src="assets/images/projects/symfony-shop.png" width="90%" alt="symfony-shop — educational e-commerce project on Symfony">
+        <img src="assets/images/projects/symfony-shop.png" width="80%" alt="symfony-shop — educational e-commerce project on Symfony">
       </a><br>
       <a href="https://github.com/yaleksandr89/symfony-shop"><strong>symfony-shop</strong></a><br>
-      <sub>Symfony · ★ 17 · Forks 13</sub><br>
+      <sub>Symfony</sub><br>
+      <sub>★ 17 · Forks 13</sub><br>
       Интернет-магазин на Symfony с PostgreSQL, Doctrine ORM, API Platform, OAuth и отдельным frontend на Vue.
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/yii2-book-catalog">
-        <img src="assets/images/projects/yii2-book-catalog.png" width="90%" alt="yii2-book-catalog — web book catalog on Yii2">
+        <img src="assets/images/projects/yii2-book-catalog.png" width="80%" alt="yii2-book-catalog — web book catalog on Yii2">
       </a><br>
       <a href="https://github.com/yaleksandr89/yii2-book-catalog"><strong>yii2-book-catalog</strong></a><br>
-      <sub>Yii2 · ★ 0 · Forks 0</sub><br>
+      <sub>Yii2</sub><br>
+      <sub>★ 0 · Forks 0</sub><br>
       Каталог книг и авторов на Yii2 и MySQL с Docker, тестами и внешней SMS-интеграцией.
     </td>
     <!--
     <td align="center" valign="top" width="50%">
-      <img src="assets/images/projects/laravel-temporal.png" width="90%" alt="Laravel, RoadRunner and Temporal delivery aggregator — in progress"><br>
+      <img src="assets/images/projects/laravel-temporal.png" width="80%" alt="Laravel, RoadRunner and Temporal delivery aggregator — in progress"><br>
       <strong>В процессе...</strong><br>
       <sub>Laravel</sub><br>
       Проект на Laravel с RoadRunner и Temporal на примере агрегатора доставки.
     </td>
     -->
-    <td valign="top" width="50%"></td>
   </tr>
 </table>
 
@@ -112,28 +114,30 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/oauth2-yandex">
-        <img src="assets/images/packages/oauth2-yandex.png" width="90%" alt="oauth2-yandex — Yandex ID OAuth 2.0 provider for PHP">
+        <img src="assets/images/packages/oauth2-yandex.png" width="80%" alt="oauth2-yandex — Yandex ID OAuth 2.0 provider for PHP">
       </a><br>
-      <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a> · ★ 1 · Forks 0</sub><br>
+      <sub><a href="https://github.com/yaleksandr89/oauth2-yandex">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/oauth2-yandex">Packagist</a></sub><br>
+      <sub>★ 1 · Forks 0</sub><br>
       OAuth 2.0 provider для интеграции Yandex ID через <code>league/oauth2-client</code>.
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/weather">
-        <img src="assets/images/packages/weather.png" width="90%" alt="weather — unified current weather client for PHP">
+        <img src="assets/images/packages/weather.png" width="80%" alt="weather — unified current weather client for PHP">
       </a><br>
-      <sub><a href="https://github.com/yaleksandr89/weather">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/weather">Packagist</a> · ★ 0 · Forks 0</sub><br>
+      <sub><a href="https://github.com/yaleksandr89/weather">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/weather">Packagist</a></sub><br>
+      <sub>★ 0 · Forks 0</sub><br>
       PHP-клиент для получения текущей погоды по координатам через Open-Meteo и WeatherAPI.
     </td>
   </tr>
     <tr>
       <td align="center" valign="top" width="50%">
         <a href="https://github.com/yaleksandr89/archive-guard">
-          <img src="assets/images/packages/archive-guard.png" width="90%" alt="archive-guard — ZIP, TAR and TAR.GZ inspection and controlled extraction for PHP">
+          <img src="assets/images/packages/archive-guard.png" width="80%" alt="archive-guard — ZIP, TAR and TAR.GZ inspection and controlled extraction for PHP">
         </a><br>
-        <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/archive-guard">Packagist</a> · ★ 0 · Forks 0</sub><br>
+        <sub><a href="https://github.com/yaleksandr89/archive-guard">GitHub</a> · <a href="https://packagist.org/packages/yaleksandr89/archive-guard">Packagist</a></sub><br>
+      <sub>★ 0 · Forks 0</sub><br>
         Проверка ZIP, TAR и TAR.GZ перед распаковкой и извлечение с заданными ограничениями для PHP.
       </td>
-      <td valign="top" width="50%"></td>
     </tr>
 </table>
 
@@ -143,31 +147,33 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-sql-lab">
-        <img src="assets/images/tools/docker-sql-lab.png" width="90%" alt="docker-sql-lab — local SQL training environment">
+        <img src="assets/images/tools/docker-sql-lab.png" width="80%" alt="docker-sql-lab — local SQL training environment">
       </a><br>
       <a href="https://github.com/yaleksandr89/docker-sql-lab"><strong>docker-sql-lab</strong></a><br>
-      <sub>Docker · SQL · ★ 0 · Forks 0</sub><br>
+      <sub>Docker · SQL</sub><br>
+      <sub>★ 0 · Forks 0</sub><br>
       Локальный стенд для изучения SQL с PostgreSQL, MySQL и ClickHouse, а также готовыми demo-таблицами.
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/docker-elasticsearch">
-        <img src="assets/images/tools/docker-elasticsearch.png" width="90%" alt="docker-elasticsearch — local Elasticsearch training environment">
+        <img src="assets/images/tools/docker-elasticsearch.png" width="80%" alt="docker-elasticsearch — local Elasticsearch training environment">
       </a><br>
       <a href="https://github.com/yaleksandr89/docker-elasticsearch"><strong>docker-elasticsearch</strong></a><br>
-      <sub>Docker · Elasticsearch · ★ 0 · Forks 0</sub><br>
+      <sub>Docker · Elasticsearch</sub><br>
+      <sub>★ 0 · Forks 0</sub><br>
       Локальный стенд для изучения Elasticsearch с Kibana и Nginx, включая ICU и phonetic-анализ для экспериментов с поиском.
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/yaleksandr89/remove-prefix">
-        <img src="assets/images/tools/remove-prefix.png" width="90%" alt="remove-prefix — batch prefix removal for files and folders">
+        <img src="assets/images/tools/remove-prefix.png" width="80%" alt="remove-prefix — batch prefix removal for files and folders">
       </a><br>
       <a href="https://github.com/yaleksandr89/remove-prefix"><strong>remove-prefix</strong></a><br>
-      <sub>Bash · PowerShell · ★ 0 · Forks 0</sub><br>
+      <sub>Bash · PowerShell</sub><br>
+      <sub>★ 0 · Forks 0</sub><br>
       Кроссплатформенные скрипты для рекурсивного массового удаления префиксов из имён файлов и каталогов.
     </td>
-    <td valign="top" width="50%"></td>
   </tr>
 </table>
 
