@@ -83,7 +83,7 @@
       </a><br>
       <a href="https://github.com/yaleksandr89/symfony-shop"><strong>symfony-shop</strong></a><br>
       <sub>Symfony</sub><br>
-      <sub>★ 17 · Forks 13</sub><br>
+      <sub>★ 17 · Forks 12</sub><br>
       Интернет-магазин на Symfony с PostgreSQL, Doctrine ORM, API Platform, OAuth и отдельным frontend на Vue.
     </td>
   </tr>
