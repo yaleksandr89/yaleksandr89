@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td valign="middle"><img src="assets/icons/devops.svg" width="28" height="34" alt="" align="middle"> <strong>Platform / DevOps</strong></td>
-      <td valign="middle">Linux · Docker</td>
+      <td valign="middle">Windows (WSL2) · Linux · Docker</td>
     </tr>
     <tr>
       <td valign="middle"><img src="assets/icons/git.svg" width="28" height="34" alt="" align="middle"> <strong>Git / Forge / CI</strong></td>
@@ -176,6 +176,37 @@
     </td>
   </tr>
 </table>
+
+
+<h2>Пример нового формата</h2>
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/human-gate">
+        <img src="assets/images/packages/human-gate.png" width="100%" alt="Human Gate — три вида CAPTCHA для PHP">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2>
+        <a href="https://github.com/yaleksandr89/human-gate">human-gate</a>
+      </h2>
+      <p>
+        Три вида капчи для PHP с серверной проверкой ответа,
+        ограничением попыток и защитой от повторного использования.
+      </p>
+      <sub>PHP · GD · CAPTCHA</sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/human-gate">GitHub</a>
+      ·
+      <a href="https://packagist.org/packages/yaleksandr89/human-gate">Packagist</a>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
