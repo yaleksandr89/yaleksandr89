@@ -10,6 +10,13 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaleksandr89&amp;layout=compact&amp;langs_count=5&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=fr" width="395" alt="Langages de programmation les plus utilisés">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaleksandr89&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=fr" width="395" alt="Statistiques d’activité GitHub">
+</p>
+
+---
+
 ## Stack
 
 <table>

@@ -10,6 +10,13 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaleksandr89&amp;layout=compact&amp;langs_count=5&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=es" width="395" alt="Lenguajes de programación más utilizados">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaleksandr89&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=es" width="395" alt="Estadísticas de actividad en GitHub">
+</p>
+
+---
+
 ## Stack
 
 <table>
