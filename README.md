@@ -10,6 +10,16 @@
 
 ---
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaleksandr89&amp;layout=compact&amp;langs_count=5&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=ru"
+    width="420"
+    alt="Статистика языков программирования"
+  >
+</p>
+
+---
+
 ## Стек
 
 <table>
