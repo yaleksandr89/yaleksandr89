@@ -78,6 +78,31 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
 
 ---
 
+## Python
+
+### Projects
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">
+        <img src="../assets/images/projects/freecurrencyapi-converter-python.png" width="100%" alt="Python currency converter">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2><a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">freecurrencyapi-converter-python</a></h2>
+      <p>Python command-line currency converter that retrieves exchange rates from FreecurrencyAPI and calculates currency conversions.</p>
+      <sub>Python · CLI · FreecurrencyAPI</sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## PHP
 
 

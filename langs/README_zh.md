@@ -78,6 +78,31 @@
 
 ---
 
+## Python
+
+### 项目
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">
+        <img src="../assets/images/projects/freecurrencyapi-converter-python.png" width="100%" alt="Python 命令行货币转换器">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2><a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">freecurrencyapi-converter-python</a></h2>
+      <p>基于 Python 的命令行货币转换器，通过 FreecurrencyAPI 获取汇率并计算不同货币之间的兑换结果。</p>
+      <sub>Python · CLI · FreecurrencyAPI</sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## PHP
 
 
