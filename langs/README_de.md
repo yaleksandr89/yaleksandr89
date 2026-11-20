@@ -80,7 +80,8 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
 
 ## Python
 
-### Projekte
+<details>
+<summary><strong>Projekte (1)</strong></summary>
 
 <table>
   <tr>
@@ -101,12 +102,15 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   </tr>
 </table>
 
+</details>
+
 ---
 
 ## PHP
 
 
-### Projekte
+<details>
+<summary><strong>Projekte (3)</strong></summary>
 
 <table>
   <tr>
@@ -174,7 +178,10 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
     </td>
     -->
 
-### PHP-Pakete
+</details>
+
+<details>
+<summary><strong>PHP-Pakete (4)</strong></summary>
 
 <table>
   <tr>
@@ -252,7 +259,14 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   </tr>
 </table>
 
-### Tools
+</details>
+
+---
+
+## Tools
+
+<details>
+<summary><strong>Tools anzeigen (3)</strong></summary>
 
 <table>
   <tr>
@@ -311,6 +325,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
   </tr>
 </table>
 
+</details>
 
 ---
 

@@ -80,7 +80,8 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
 
 ## Python
 
-### Projets
+<details>
+<summary><strong>Projets (1)</strong></summary>
 
 <table>
   <tr>
@@ -101,12 +102,15 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
   </tr>
 </table>
 
+</details>
+
 ---
 
 ## PHP
 
 
-### Projets
+<details>
+<summary><strong>Projets (3)</strong></summary>
 
 <table>
   <tr>
@@ -174,7 +178,10 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
     </td>
     -->
 
-### Packages PHP
+</details>
+
+<details>
+<summary><strong>Packages PHP (4)</strong></summary>
 
 <table>
   <tr>
@@ -252,7 +259,14 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
   </tr>
 </table>
 
-### Outils
+</details>
+
+---
+
+## Outils
+
+<details>
+<summary><strong>Afficher les outils (3)</strong></summary>
 
 <table>
   <tr>
@@ -311,6 +325,7 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
   </tr>
 </table>
 
+</details>
 
 ---
 

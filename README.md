@@ -80,7 +80,8 @@
 
 ## Python
 
-### Проекты
+<details>
+<summary><strong>Проекты (1)</strong></summary>
 
 <table>
   <tr>
@@ -101,12 +102,15 @@
   </tr>
 </table>
 
+</details>
+
 ---
 
 ## PHP
 
 
-### Проекты
+<details>
+<summary><strong>Проекты (3)</strong></summary>
 
 <table>
   <tr>
@@ -174,7 +178,10 @@
     </td>
     -->
 
-### Packagist пакеты
+</details>
+
+<details>
+<summary><strong>Packagist пакеты (4)</strong></summary>
 
 <table>
   <tr>
@@ -252,7 +259,14 @@
   </tr>
 </table>
 
-### Инструменты
+</details>
+
+---
+
+## Инструменты
+
+<details>
+<summary><strong>Показать инструменты (3)</strong></summary>
 
 <table>
   <tr>
@@ -311,6 +325,7 @@
   </tr>
 </table>
 
+</details>
 
 ---
 

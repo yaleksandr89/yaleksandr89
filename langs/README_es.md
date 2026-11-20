@@ -80,7 +80,8 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
 
 ## Python
 
-### Proyectos
+<details>
+<summary><strong>Proyectos (1)</strong></summary>
 
 <table>
   <tr>
@@ -101,12 +102,15 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
   </tr>
 </table>
 
+</details>
+
 ---
 
 ## PHP
 
 
-### Proyectos
+<details>
+<summary><strong>Proyectos (3)</strong></summary>
 
 <table>
   <tr>
@@ -174,7 +178,10 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
     </td>
     -->
 
-### Paquetes PHP
+</details>
+
+<details>
+<summary><strong>Paquetes PHP (4)</strong></summary>
 
 <table>
   <tr>
@@ -252,7 +259,14 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
   </tr>
 </table>
 
-### Herramientas
+</details>
+
+---
+
+## Herramientas
+
+<details>
+<summary><strong>Mostrar herramientas (3)</strong></summary>
 
 <table>
   <tr>
@@ -311,6 +325,7 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
   </tr>
 </table>
 
+</details>
 
 ---
 

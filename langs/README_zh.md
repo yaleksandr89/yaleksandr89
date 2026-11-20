@@ -80,7 +80,8 @@
 
 ## Python
 
-### 项目
+<details>
+<summary><strong>项目（1）</strong></summary>
 
 <table>
   <tr>
@@ -101,12 +102,15 @@
   </tr>
 </table>
 
+</details>
+
 ---
 
 ## PHP
 
 
-### 项目
+<details>
+<summary><strong>项目（3）</strong></summary>
 
 <table>
   <tr>
@@ -174,7 +178,10 @@
     </td>
     -->
 
-### PHP 包
+</details>
+
+<details>
+<summary><strong>PHP 包（4）</strong></summary>
 
 <table>
   <tr>
@@ -252,7 +259,14 @@
   </tr>
 </table>
 
-### 工具
+</details>
+
+---
+
+## 工具
+
+<details>
+<summary><strong>查看工具（3）</strong></summary>
 
 <table>
   <tr>
@@ -311,6 +325,7 @@
   </tr>
 </table>
 
+</details>
 
 ---
 

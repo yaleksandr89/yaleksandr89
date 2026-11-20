@@ -80,7 +80,8 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
 
 ## Python
 
-### Projects
+<details>
+<summary><strong>Projects (1)</strong></summary>
 
 <table>
   <tr>
@@ -101,12 +102,15 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
   </tr>
 </table>
 
+</details>
+
 ---
 
 ## PHP
 
 
-### Projects
+<details>
+<summary><strong>Projects (3)</strong></summary>
 
 <table>
   <tr>
@@ -174,7 +178,10 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
     </td>
     -->
 
-### PHP packages
+</details>
+
+<details>
+<summary><strong>PHP packages (4)</strong></summary>
 
 <table>
   <tr>
@@ -252,7 +259,14 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
   </tr>
 </table>
 
-### Tools
+</details>
+
+---
+
+## Tools
+
+<details>
+<summary><strong>Show tools (3)</strong></summary>
 
 <table>
   <tr>
@@ -311,6 +325,7 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
   </tr>
 </table>
 
+</details>
 
 ---
 
