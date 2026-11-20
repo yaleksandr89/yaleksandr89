@@ -11,8 +11,18 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaleksandr89&amp;layout=compact&amp;langs_count=5&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=es" width="395" alt="Lenguajes de programación más utilizados">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaleksandr89&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=es" width="395" alt="Estadísticas de actividad en GitHub">
+  <img
+    align="middle"
+    src="https://github-stats-extended.vercel.app/api?username=yaleksandr89&amp;locale=es&amp;custom_title=Estad%C3%ADsticas&amp;show_icons=true&amp;hide_rank=true&amp;card_width=440&amp;hide_border=true&amp;theme=transparent"
+    width="400"
+    alt="Estadísticas de GitHub"
+  >
+  <img
+    align="middle"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yaleksandr89&amp;locale=es&amp;card_width=400&amp;langs_count=5&amp;hide_border=true&amp;theme=transparent"
+    width="380"
+    alt="Lenguajes más utilizados"
+  >
 </p>
 
 ---
@@ -29,7 +39,7 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
   <tbody>
     <tr>
       <td valign="middle"><img src="../assets/icons/languages.svg" width="28" height="34" alt="" align="middle"> <strong>Lenguajes</strong></td>
-      <td valign="middle">PHP · SQL · JavaScript</td>
+      <td valign="middle">PHP · SQL · Python · JavaScript</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/php.svg" width="28" height="34" alt="" align="middle"> <strong>PHP</strong></td>
@@ -53,7 +63,7 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/development.svg" width="28" height="34" alt="" align="middle"> <strong>Desarrollo</strong></td>
-      <td valign="middle">PhpStorm</td>
+      <td valign="middle">PhpStorm · PyCharm</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/ai.svg" width="28" height="34" alt="" align="middle"> <strong>IA</strong></td>

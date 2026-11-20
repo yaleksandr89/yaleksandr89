@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-labelledby="title description">
+<title id="title">Коммиты по месяцам</title>
+<desc id="description">Коммиты автора yaleksandr89 в доступных публичных репозиториях по месяцам с декабря 2025 по ноябрь 2026. Значения: 2025-12: 0, 2026-01: 0, 2026-02: 0, 2026-03: 0, 2026-04: 0, 2026-05: 5, 2026-06: 4, 2026-07: 129, 2026-08: 209, 2026-09: 123, 2026-10: 47, 2026-11: 49. Это не полный график contributions GitHub.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif} @media (prefers-color-scheme: dark){.fg{fill:#e6edf3}.muted{fill:#a5b1bb}.axis{stroke:#48515c}}</style>
+<text class="fg" x="16" y="25" font-weight="700" font-size="17" fill="#24292f">Коммиты по месяцам</text>
+<text class="muted" x="16" y="43" font-size="10.5" fill="#57606a">Публичные репозитории · дек. 2025 – ноя. 2026</text>
+<line class="axis" x1="42" y1="174.00" x2="408" y2="174.00" stroke="#d8dee4" stroke-width="0.7" stroke-dasharray="2 4"/>
+<text class="muted" x="34" y="177.3" fill="#57606a" text-anchor="end" font-size="9">0</text>
+<line class="axis" x1="42" y1="123.78" x2="408" y2="123.78" stroke="#d8dee4" stroke-width="0.7" stroke-dasharray="2 4"/>
+<text class="muted" x="34" y="127.1" fill="#57606a" text-anchor="end" font-size="9">100</text>
+<line class="axis" x1="42" y1="73.56" x2="408" y2="73.56" stroke="#d8dee4" stroke-width="0.7" stroke-dasharray="2 4"/>
+<text class="muted" x="34" y="76.9" fill="#57606a" text-anchor="end" font-size="9">200</text>
+<text class="muted" x="57.25" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Дек</text>
+<text class="muted" x="87.75" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Янв</text>
+<text class="muted" x="118.25" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Фев</text>
+<text class="muted" x="148.75" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Мар</text>
+<text class="muted" x="179.25" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Апр</text>
+<rect x="198.50" y="171.49" width="22.50" height="2.51" rx="2.3" fill="#576ca8"/>
+<text class="muted" x="209.75" y="167.49" fill="#57606a" text-anchor="middle" font-size="9">5</text>
+<text class="muted" x="209.75" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Май</text>
+<rect x="229.00" y="171.99" width="22.50" height="2.01" rx="2.3" fill="#576ca8"/>
+<text class="muted" x="240.25" y="167.99" fill="#57606a" text-anchor="middle" font-size="9">4</text>
+<text class="muted" x="240.25" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Июн</text>
+<rect x="259.50" y="109.21" width="22.50" height="64.79" rx="2.3" fill="#576ca8"/>
+<text class="muted" x="270.75" y="105.21" fill="#57606a" text-anchor="middle" font-size="9">129</text>
+<text class="muted" x="270.75" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Июл</text>
+<rect x="290.00" y="69.04" width="22.50" height="104.96" rx="2.3" fill="#576ca8"/>
+<text class="muted" x="301.25" y="65.04" fill="#57606a" text-anchor="middle" font-size="9">209</text>
+<text class="muted" x="301.25" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Авг</text>
+<rect x="320.50" y="112.23" width="22.50" height="61.77" rx="2.3" fill="#576ca8"/>
+<text class="muted" x="331.75" y="108.23" fill="#57606a" text-anchor="middle" font-size="9">123</text>
+<text class="muted" x="331.75" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Сен</text>
+<rect x="351.00" y="150.40" width="22.50" height="23.60" rx="2.3" fill="#576ca8"/>
+<text class="muted" x="362.25" y="146.40" fill="#57606a" text-anchor="middle" font-size="9">47</text>
+<text class="muted" x="362.25" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Окт</text>
+<rect x="381.50" y="149.39" width="22.50" height="24.61" rx="2.3" fill="#f28c3b"/>
+<text class="muted" x="392.75" y="145.39" fill="#57606a" text-anchor="middle" font-size="9">49</text>
+<text class="muted" x="392.75" y="189" fill="#57606a" text-anchor="middle" font-size="9.5">Ноя</text>
+<text class="muted" x="210.0" y="208" font-size="10" fill="#57606a" text-anchor="middle">566 коммитов · срез на 20.11.2026</text>
+</svg>

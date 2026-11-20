@@ -11,8 +11,18 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaleksandr89&amp;layout=compact&amp;langs_count=5&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=en" width="395" alt="Most used programming languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaleksandr89&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=en" width="395" alt="GitHub activity statistics">
+  <img
+    align="middle"
+    src="https://github-stats-extended.vercel.app/api?username=yaleksandr89&amp;locale=en&amp;custom_title=Statistics&amp;show_icons=true&amp;hide_rank=true&amp;card_width=440&amp;hide_border=true&amp;theme=transparent"
+    width="400"
+    alt="GitHub statistics"
+  >
+  <img
+    align="middle"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yaleksandr89&amp;locale=en&amp;card_width=400&amp;langs_count=5&amp;hide_border=true&amp;theme=transparent"
+    width="380"
+    alt="Most used languages"
+  >
 </p>
 
 ---
@@ -29,7 +39,7 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
   <tbody>
     <tr>
       <td valign="middle"><img src="../assets/icons/languages.svg" width="28" height="34" alt="" align="middle"> <strong>Languages</strong></td>
-      <td valign="middle">PHP · SQL · JavaScript</td>
+      <td valign="middle">PHP · SQL · Python · JavaScript</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/php.svg" width="28" height="34" alt="" align="middle"> <strong>PHP</strong></td>
@@ -53,7 +63,7 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/development.svg" width="28" height="34" alt="" align="middle"> <strong>Development</strong></td>
-      <td valign="middle">PhpStorm</td>
+      <td valign="middle">PhpStorm · PyCharm</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/ai.svg" width="28" height="34" alt="" align="middle"> <strong>AI</strong></td>

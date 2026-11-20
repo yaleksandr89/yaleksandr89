@@ -11,8 +11,18 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaleksandr89&amp;layout=compact&amp;langs_count=5&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=fr" width="395" alt="Langages de programmation les plus utilisés">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaleksandr89&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;theme=transparent&amp;hide_border=true&amp;locale=fr" width="395" alt="Statistiques d’activité GitHub">
+  <img
+    align="middle"
+    src="https://github-stats-extended.vercel.app/api?username=yaleksandr89&amp;locale=fr&amp;custom_title=Statistiques&amp;show_icons=true&amp;hide_rank=true&amp;card_width=440&amp;hide_border=true&amp;theme=transparent"
+    width="400"
+    alt="Statistiques GitHub"
+  >
+  <img
+    align="middle"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yaleksandr89&amp;locale=fr&amp;card_width=400&amp;langs_count=5&amp;hide_border=true&amp;theme=transparent"
+    width="380"
+    alt="Langages les plus utilisés"
+  >
 </p>
 
 ---
@@ -29,7 +39,7 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
   <tbody>
     <tr>
       <td valign="middle"><img src="../assets/icons/languages.svg" width="28" height="34" alt="" align="middle"> <strong>Langages</strong></td>
-      <td valign="middle">PHP · SQL · JavaScript</td>
+      <td valign="middle">PHP · SQL · Python · JavaScript</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/php.svg" width="28" height="34" alt="" align="middle"> <strong>PHP</strong></td>
@@ -53,7 +63,7 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/development.svg" width="28" height="34" alt="" align="middle"> <strong>Développement</strong></td>
-      <td valign="middle">PhpStorm</td>
+      <td valign="middle">PhpStorm · PyCharm</td>
     </tr>
     <tr>
       <td valign="middle"><img src="../assets/icons/ai.svg" width="28" height="34" alt="" align="middle"> <strong>IA</strong></td>
