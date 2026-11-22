@@ -108,6 +108,29 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
 
 ## PHP
 
+<details>
+<summary><strong>Proyectos de IA (1)</strong></summary>
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">
+        <img src="../assets/images/projects/telegram-vacancy-monitor.png" width="100%" alt="Telegram Vacancy Monitor — análisis de ofertas de empleo de TI con IA">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2><a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">telegram-vacancy-monitor</a></h2>
+      <p>Aplicación PHP para el análisis personalizado de ofertas de empleo de TI a través de Telegram: guarda las ofertas enviadas al bot y las evalúa con IA según el perfil del candidato.</p>
+      <sub><code>PHP</code> · <code>Telegram Bot API</code> · <code>SQLite</code> · <code>LLM</code></sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <details>
 <summary><strong>Proyectos (3)</strong></summary>

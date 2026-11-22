@@ -108,6 +108,29 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
 
 ## PHP
 
+<details>
+<summary><strong>KI-Projekte (1)</strong></summary>
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">
+        <img src="../assets/images/projects/telegram-vacancy-monitor.png" width="100%" alt="Telegram Vacancy Monitor — KI-Analyse von IT-Stellenangeboten">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2><a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">telegram-vacancy-monitor</a></h2>
+      <p>PHP-Anwendung zur persönlichen Analyse von IT-Stellenangeboten über Telegram: speichert an den Bot gesendete Stellenanzeigen und bewertet sie mit KI anhand des Bewerberprofils.</p>
+      <sub><code>PHP</code> · <code>Telegram Bot API</code> · <code>SQLite</code> · <code>LLM</code></sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <details>
 <summary><strong>Projekte (3)</strong></summary>

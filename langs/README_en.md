@@ -108,6 +108,29 @@ I work with backend logic, API integrations, legacy projects, and internal corpo
 
 ## PHP
 
+<details>
+<summary><strong>AI Projects (1)</strong></summary>
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">
+        <img src="../assets/images/projects/telegram-vacancy-monitor.png" width="100%" alt="Telegram Vacancy Monitor — AI-powered IT vacancy analysis">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2><a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">telegram-vacancy-monitor</a></h2>
+      <p>PHP application for personalized IT vacancy analysis via Telegram: saves vacancies sent to the bot and evaluates them with AI against a candidate profile.</p>
+      <sub><code>PHP</code> · <code>Telegram Bot API</code> · <code>SQLite</code> · <code>LLM</code></sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <details>
 <summary><strong>Projects (3)</strong></summary>

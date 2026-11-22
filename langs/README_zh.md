@@ -108,6 +108,29 @@
 
 ## PHP
 
+<details>
+<summary><strong>AI 项目（1）</strong></summary>
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">
+        <img src="../assets/images/projects/telegram-vacancy-monitor.png" width="100%" alt="Telegram Vacancy Monitor — 利用 AI 分析 IT 职位信息">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2><a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">telegram-vacancy-monitor</a></h2>
+      <p>通过 Telegram 个性化分析 IT 职位的 PHP 应用：保存用户发送给机器人的职位信息，并使用 AI 根据候选人资料进行评估。</p>
+      <sub><code>PHP</code> · <code>Telegram Bot API</code> · <code>SQLite</code> · <code>LLM</code></sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <details>
 <summary><strong>项目（3）</strong></summary>

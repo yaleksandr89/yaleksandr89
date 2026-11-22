@@ -108,6 +108,29 @@
 
 ## PHP
 
+<details>
+<summary><strong>ИИ-проекты (1)</strong></summary>
+
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">
+        <img src="assets/images/projects/telegram-vacancy-monitor.png" width="100%" alt="Telegram Vacancy Monitor — персональный анализ IT-вакансий с помощью ИИ">
+      </a>
+    </td>
+    <td width="70%" align="left" valign="top">
+      <h2><a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">telegram-vacancy-monitor</a></h2>
+      <p>PHP-приложение для персонального анализа IT-вакансий через Telegram: сохраняет отправленные боту вакансии и оценивает их с помощью ИИ по профилю кандидата.</p>
+      <sub><code>PHP</code> · <code>Telegram Bot API</code> · <code>SQLite</code> · <code>LLM</code></sub>
+      <br>
+      <sub>★ 0 · Forks 0</sub>
+      <br><br><br>
+      <a href="https://github.com/yaleksandr89/telegram-vacancy-monitor">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <details>
 <summary><strong>Проекты (3)</strong></summary>
