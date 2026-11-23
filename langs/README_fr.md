@@ -95,7 +95,7 @@ Je travaille sur la logique backend, les intégrations d’API, les projets lega
       <p>Convertisseur de devises en ligne de commande Python : récupère les taux via FreecurrencyAPI et calcule les conversions.</p>
       <sub>Python · CLI · FreecurrencyAPI</sub>
       <br>
-      <sub>★ 0 · Forks 0</sub>
+      <sub>★ 1 · Forks 0</sub>
       <br><br><br>
       <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">GitHub</a>
     </td>

@@ -95,7 +95,7 @@ Trabajo con lógica backend, integraciones de API, proyectos legacy y sistemas c
       <p>Conversor de divisas en Python para la consola: consulta tipos de cambio mediante FreecurrencyAPI y calcula conversiones.</p>
       <sub>Python · CLI · FreecurrencyAPI</sub>
       <br>
-      <sub>★ 0 · Forks 0</sub>
+      <sub>★ 1 · Forks 0</sub>
       <br><br><br>
       <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">GitHub</a>
     </td>
