@@ -95,7 +95,7 @@
       <p>基于 Python 的命令行货币转换器，通过 FreecurrencyAPI 获取汇率并计算不同货币之间的兑换结果。</p>
       <sub>Python · CLI · FreecurrencyAPI</sub>
       <br>
-      <sub>★ 1 · Forks 0</sub>
+      <sub>★ 0 · Forks 0</sub>
       <br><br><br>
       <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">GitHub</a>
     </td>

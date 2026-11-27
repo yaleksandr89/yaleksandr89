@@ -95,7 +95,7 @@ Ich arbeite mit Backend-Logik, API-Integrationen, Legacy-Projekten und internen 
       <p>Python-Kommandozeilenprogramm zur Währungsumrechnung: ruft Kurse über FreecurrencyAPI ab und berechnet Umrechnungen.</p>
       <sub>Python · CLI · FreecurrencyAPI</sub>
       <br>
-      <sub>★ 1 · Forks 0</sub>
+      <sub>★ 0 · Forks 0</sub>
       <br><br><br>
       <a href="https://github.com/yaleksandr89/freecurrencyapi-converter-python">GitHub</a>
     </td>
