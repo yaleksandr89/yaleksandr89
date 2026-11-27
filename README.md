@@ -139,7 +139,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/mvc-v1">
-        <img src="assets/images/projects/mvc-v1.png" width="100%" alt="mvc-v1 — educational PHP blog with custom MVC core">
+        <img src="assets/images/projects/mvc-v1.png" width="100%" alt="mvc-v1 — учебный блог на PHP с собственным MVC-ядром">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -158,7 +158,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/symfony-shop">
-        <img src="assets/images/projects/symfony-shop.png" width="100%" alt="symfony-shop — educational e-commerce project on Symfony">
+        <img src="assets/images/projects/symfony-shop.png" width="100%" alt="symfony-shop — учебный интернет-магазин на Symfony">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -177,7 +177,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/yii2-book-catalog">
-        <img src="assets/images/projects/yii2-book-catalog.png" width="100%" alt="yii2-book-catalog — web book catalog on Yii2">
+        <img src="assets/images/projects/yii2-book-catalog.png" width="100%" alt="yii2-book-catalog — веб-каталог книг на Yii2">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -194,7 +194,7 @@
 
 <!--
     <td align="center" valign="top" width="50%">
-      <img src="assets/images/projects/laravel-temporal.png" width="90%" alt="Laravel, RoadRunner and Temporal delivery aggregator — in progress"><br>
+      <img src="assets/images/projects/laravel-temporal.png" width="90%" alt="Агрегатор доставки на Laravel, RoadRunner и Temporal — в разработке"><br>
       <strong>В процессе...</strong><br>
       <sub>Laravel</sub><br>
       Проект на Laravel с RoadRunner и Temporal на примере агрегатора доставки.
@@ -229,7 +229,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/oauth2-yandex">
-        <img src="assets/images/packages/oauth2-yandex.png" width="100%" alt="oauth2-yandex — Yandex ID OAuth 2.0 provider for PHP">
+        <img src="assets/images/packages/oauth2-yandex.png" width="100%" alt="oauth2-yandex — провайдер OAuth 2.0 для Yandex ID на PHP">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -248,7 +248,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/weather">
-        <img src="assets/images/packages/weather.png" width="100%" alt="weather — unified current weather client for PHP">
+        <img src="assets/images/packages/weather.png" width="100%" alt="weather — единый PHP-клиент для получения текущей погоды">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -267,7 +267,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/archive-guard">
-        <img src="assets/images/packages/archive-guard.png" width="100%" alt="archive-guard — ZIP, TAR and TAR.GZ inspection and controlled extraction for PHP">
+        <img src="assets/images/packages/archive-guard.png" width="100%" alt="archive-guard — проверка и контролируемая распаковка ZIP, TAR и TAR.GZ на PHP">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -295,7 +295,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/docker-sql-lab">
-        <img src="assets/images/tools/docker-sql-lab.png" width="100%" alt="docker-sql-lab — local SQL training environment">
+        <img src="assets/images/tools/docker-sql-lab.png" width="100%" alt="docker-sql-lab — локальный стенд для практики SQL">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -314,7 +314,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/docker-elasticsearch">
-        <img src="assets/images/tools/docker-elasticsearch.png" width="100%" alt="docker-elasticsearch — local Elasticsearch training environment">
+        <img src="assets/images/tools/docker-elasticsearch.png" width="100%" alt="docker-elasticsearch — локальный стенд для изучения Elasticsearch">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
@@ -333,7 +333,7 @@
   <tr>
     <td width="30%" valign="middle">
       <a href="https://github.com/yaleksandr89/remove-prefix">
-        <img src="assets/images/tools/remove-prefix.png" width="100%" alt="remove-prefix — batch prefix removal for files and folders">
+        <img src="assets/images/tools/remove-prefix.png" width="100%" alt="remove-prefix — массовое удаление префиксов из имён файлов и каталогов">
       </a>
     </td>
     <td width="70%" align="left" valign="top">
